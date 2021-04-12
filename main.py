@@ -5,10 +5,10 @@ import json
 import time
 client = mqtt.Client()
 
-host = "www.mqttserver.com"
+host = "networklink.co.th"
 port = 1883        # your port
-mqUsr = "user"
-mqPas = "pass"
+mqUsr = "user1"
+mqPas = "1234"
 topic ="Demo/test"
 
 # If your broker is not require user,pass. Let comment this.
