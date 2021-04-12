@@ -5,7 +5,7 @@ import json
 import time
 client = mqtt.Client()
 
-host = "networklink.co.th"
+host = ""
 port = 1883        # your port
 mqUsr = "user1"
 mqPas = "1234"
